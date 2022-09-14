@@ -4,5 +4,12 @@ git add "....html"
 git add .
 git commit -m "Chú thích"
 git log
-git remote set-url origin https://github.com/ZeroXZT/alo123
+git remote set-url origin https://github.com/ZeroXZT/alo123.git
+git remote --verbose
 git push origin master
+
+git branch Ten-Branch
+git branch : Xem lại những branch mà mình đã tạo
+git checkout Ten_Branch
+git checkout -b Ten_Branch: Tự tạo tự check luôn
+git push --set-upstream origin Ten_Branch
