@@ -1,0 +1,8 @@
+git init: Khởi tạo git
+git status: Xem tình trạng git
+git add "....html"
+git add .
+git commit -m "Chú thích"
+git log
+git remote set-url origin https://github.com/ZeroXZT/alo123
+git push origin master
